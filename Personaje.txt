@@ -1,4 +1,4 @@
-Nombre:
-Vida:
-Armadura:
-Stamina:
+Nombre: titi
+Vida: 0 (Trabaja)
+Armadura: 10 (Milico)
+Stamina: 5 (Pintó)
