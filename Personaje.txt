@@ -1,4 +1,4 @@
-Nombre: titi
+Nombre: titi Xavier el pelado de X Men
 Vida: 0 (Trabaja)
-Armadura: 10 (Milico)
-Stamina: 5 (Pintó)
+Armadura: 10 (Milico) 
+Stamina: 5 (Pintó) 
